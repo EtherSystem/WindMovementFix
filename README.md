@@ -10,7 +10,7 @@ Now, this mod does not *only* fix this bug.
 
 In vanilla, the maximum speed debuff is supposed to be reached at around 65 MPH winds, which is already among the strongest winds you can normally encounter. This mod raises that limit to 85 MPH, with a maximum movement speed debuff of 65%.
 
-In a normal vanilla game, this should basically change nothing, since winds stronger than 65 MPH are almost never reached, if they are even reachable at all.
+In vanilla, this should basically change nothing, since winds stronger than 65 MPH are almost never reached, if they are even reachable at all.
 
 However, this mod exists because I'm also creating WeatherOverhaul, which includes custom weather stages capable of producing winds stronger than 65 MPH. Instead of maintaining multiple patches for the same system for no real reason, support for those stronger winds is included directly here.
 
